@@ -18,7 +18,11 @@ Nell'applicazione che abbiamo progettato, Pepper assume il ruolo di professore d
 
 ## Analisi Statistica
 
-Nel report del progetto è inclusa anche un'analisi statistica dettagliata delle interazioni e delle performance di Pepper come professore di robotica sociale. Questa analisi aiuta a comprendere meglio l'efficacia del robot nelle diverse situazioni e con vari tipi di pubblico.
+Nel report del progetto è inclusa anche un'analisi statistica dettagliata delle interazioni e delle performance di Pepper come professore di robotica sociale. Questa analisi aiuta a comprendere meglio l'efficacia del robot nelle diverse situazioni e con vari tipi di pubblico. I dati sono disponibili in un file Excel incluso nei file del progetto.
+
+## Video del Progetto
+
+Nei file caricati è possibile scaricare un video che mostra effettivamente il progetto in azione. Questo video offre una dimostrazione pratica delle funzionalità e delle interazioni di Pepper come professore di robotica sociale.
 
 ## Ottimizzazione per il Robot Reale
 
